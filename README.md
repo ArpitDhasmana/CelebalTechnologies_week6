@@ -51,7 +51,7 @@ The notebook includes side-by-side bar charts comparing **baseline vs tuned mode
 ## GitHub Pages View
 
 You can preview this notebook as a webpage here:  
-🔗 [https://arpitdhasmana.github.io/CelebalTechnologies_week6/](https://arpitdhasmana.github.io/CelebalTechnologies_week6/)
+ [https://arpitdhasmana.github.io/CelebalTechnologies_week6/](https://arpitdhasmana.github.io/CelebalTechnologies_week6/)
 
 ## How to Run
 
