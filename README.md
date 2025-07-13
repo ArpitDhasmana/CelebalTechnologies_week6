@@ -3,7 +3,7 @@
 
 This project demonstrates an in-depth understanding of core machine learning concepts and techniques covered in **Week 6**, including:
 
-## 📚 Covered Topics
+## Covered Topics
 
 - **Clustering Algorithms**:
   - K-Means
@@ -26,11 +26,11 @@ This project demonstrates an in-depth understanding of core machine learning con
   - GridSearchCV
   - RandomizedSearchCV
 
-## 📊 Dataset
+## Dataset
 
 The [Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult) was used to predict whether a person earns more than $50K/year based on census data.
 
-## ⚙️ Implementation Highlights
+## Implementation Highlights
 
 - Trained multiple ML models: Logistic Regression, SVM, KNN, Decision Tree, Random Forest, Gradient Boosting
 - Applied various regularizations (L1, L2, ElasticNet)
@@ -38,22 +38,22 @@ The [Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult) was us
 - Used **StackingClassifier** to combine model predictions for improved performance
 - Evaluated with standard metrics and visualized with **matplotlib**
 
-## 📈 Graphs & Visualization
+## Graphs & Visualization
 
 The notebook includes side-by-side bar charts comparing **baseline vs tuned models** for each metric (Accuracy, Precision, Recall, F1).
 
-## 📁 Files
+## Files
 
 - `week6_adult_income.ipynb` – Main Jupyter notebook
 - `week6_adult_income.html` – Rendered notebook as HTML (for viewing without Jupyter)
 - `README.md` – This file
 
-## 🌐 GitHub Pages View
+## GitHub Pages View
 
 You can preview this notebook as a webpage here:  
 🔗 [https://arpitdhasmana.github.io/CelebalTechnologies_week6/](https://arpitdhasmana.github.io/CelebalTechnologies_week6/)
 
-## 🚀 How to Run
+## How to Run
 
 To convert the notebook to HTML:
 
@@ -61,7 +61,7 @@ To convert the notebook to HTML:
 python -m nbconvert --to html week6_adult_income.ipynb
 ```
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 This work is based on Week 6 of the ML course curriculum. Special thanks to all resources, especially [KDnuggets Hyperparameter Tuning Guide](https://www.kdnuggets.com/hyperparameter-tuning-gridsearchcv-and-randomizedsearchcv-explained).
 
